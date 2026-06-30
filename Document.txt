@@ -1,0 +1,22 @@
+nums = []
+ 
+n = int(input("How many numbers? "))
+ 
+for i in range(n):
+    num = int(input("Enter a number: "))
+    nums.append(num)
+ 
+# Remove duplicates
+nums = list(set(nums))
+ 
+# Sort in descending order
+nums.sort(reverse=True)
+ 
+# Filter out numbers divisible by 3
+result = []
+ 
+for x in nums:
+    if x % 3 != 0:
+        result.append(x)
+ 
+print("Modified List:", result)
