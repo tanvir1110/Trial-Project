@@ -21,5 +21,7 @@ for x in nums:
  
 print("Modified List:", result)
 //Hello World
+<<<<<<< HEAD
 //I am not fine
 //Hello world2
+//AABBCCDD
