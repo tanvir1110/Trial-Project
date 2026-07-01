@@ -40,4 +40,8 @@ new change
 =======
 //HI HI HI 
 //Modified again
+<<<<<<< HEAD
 //Now update in master
+=======
+//EFGH Modify
+>>>>>>> c7e43f1e09ea7917b8de6190c13eb667cdea5cd7
