@@ -21,5 +21,16 @@ for x in nums:
  
 print("Modified List:", result)
 //Hello World
+<<<<<<< HEAD
 //hi i am tamvir hossain
 i am tired
+=======
+
+//1234acbd
+//Hi Changed
+
+hi there .
+
+new change
+
+>>>>>>> 3bb1d39ecf326da2df8332c6da934ade72282ee9
