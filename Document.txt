@@ -24,8 +24,8 @@ print("Modified List:", result)
 
 //1234acbd
 //Hi Changed
-<<<<<<< HEAD
-hi there .
-=======
 
->>>>>>> 32aa7b6abd2f0f76306a99760e38e452c17fecc4
+hi there .
+
+new change
+
